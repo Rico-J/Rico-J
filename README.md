@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rico-J, I am an Army veteran 🪖, I am new to coding and have found a new love for it. I like to solve complex problems.
+- 🎸🎶 I have been playing guitar for 20 years and still love to play.
+- My current status is learning the fundamentals of Java and to record my progess as I go along.
+- "The journey of a thousand miles begins with one step." So here is my journey. 
